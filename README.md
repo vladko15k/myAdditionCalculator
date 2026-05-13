@@ -1,4 +1,4 @@
-# myAdditionCalculator
+# myAdditionCalculator [v1.0]
 
 Here is a concise explanation and the source code for a simple C# addition calculator, perfect for understanding the basics of input, output, and data conversion.
 
