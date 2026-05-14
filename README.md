@@ -12,3 +12,11 @@ int.Parse() / double.Parse(): Converting strings into numerical data types.
 Variables: Storing values in memory.
 
 String Interpolation: Formatting the output using the $ symbol.
+
+--------------------------------------------------------------------
+
+# myAdditionCalculator [v2.0]
+
+Converting all integers into double with the correspoding Parse.
+
+
